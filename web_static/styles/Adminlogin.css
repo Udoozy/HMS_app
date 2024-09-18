@@ -1,0 +1,111 @@
+.doc-signin {
+	position: flex;
+	padding: 25px;
+	border: none;
+	border-radius: .8em;
+	width: 400px;
+	margin: 100px 450px;
+	height: 400px; 
+	background-color: #EDEDE9;
+
+}
+
+.doc-username input {
+	width: 100%;
+	padding: 12px;
+	border: none;
+	border-radius: 4px;
+	border-color: #f2f2f2;
+	font-size: 16px;
+	color: #333;
+	box-sizing: border-box;
+	margin-top: 20px;
+}
+
+.doc-pwd input {
+	width: 100%;
+	padding: 12px;
+	border: none;
+	border-radius: 4px;
+	border-color: #f2f2f2;
+	font-size: 16px;
+	color: #333;
+	box-sizing: border-box;
+	margin-top: 50px;
+
+}
+
+body {
+
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+h1 {
+	text-align: center;
+}
+
+.for-username {
+	position: flex;
+	margin: 90px 150px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.for-pwd {
+	position: absolute;
+	margin: 23px 150px ;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.doct-login {
+	margin: 40px 165px;
+}
+
+.doct-login button {
+	border: none;
+	background-color: #EE2E31;
+	width: 100%;
+	color: white;
+	font-size: 20px;
+	cursor: pointer;
+	border-radius: 4px;
+}
+
+.doct-login button:hover {
+	background-color: #D90429;
+}
+
+.forget-pwd {
+	margin: 10px 140px;
+	position: absolute;
+}
+
+.forget-pwd a {
+	color: #D90429;
+	text-decoration: none;
+}
+
+.forget-pwd a:hover {
+	text-decoration: underline;
+}
+
+.admin-signup {
+	position: absolute;
+	margin: 45px 90px;
+}
+
+.admin-signup button {
+	border: none;
+}
+
+.admin-signup a {
+	color: #023e8a;
+	text-decoration: none;
+	font-weight: bold;
+}
+.admin-signup a:hover{
+	text-decoration: underline;
+}
