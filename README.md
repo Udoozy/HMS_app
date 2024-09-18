@@ -1,0 +1,1 @@
+This is project was undertaked by Name: Agbo Samson Udochukwu. Email: agbo4samson@gmail.com. This is a foundational portforlio project on Hospital Management system. This project will be gradually be completed since the scope of the project is just very big and the app is intended to perform the basic hospital management tasks and more.
